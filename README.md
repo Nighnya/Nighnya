@@ -1,13 +1,3 @@
-Nigh/README.md
-
-
-
-C golang autohotkey Lua
-Svelte TailwindCSS
-Git Gitea Docker
-VS Code kicad Blender
-Arduino Raspberry Pi
-
 Hi there,
 
 I'm xianii, a fullstack Electronics Engineer with expertise in schematic and layout design using KiCad.
@@ -25,5 +15,3 @@ In the Windows environment, I use Autohotkey to write automated build and test t
 For web application development, I leverage the power of golang and deploy applications using Docker.
 
 Lastly, development boards such as Arduino and Raspberry Pi, particularly the rp2040, are indispensable tools in my technical verification process.
-
-GitHub stats
